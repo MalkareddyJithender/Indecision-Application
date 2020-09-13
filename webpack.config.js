@@ -52,6 +52,6 @@ module.exports = (env) => {
         contentBase:path.join(__dirname,'public'),
         publicPath:'/dist/'
     }
-};
-
 }
+
+};
